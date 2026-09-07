@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Lux Logo" width="220" />
+  <img src="logo.png" alt="Lux Logo" width="220" />
 </p>
 
 <h1 align="center">Lux Systems Engineering</h1>
